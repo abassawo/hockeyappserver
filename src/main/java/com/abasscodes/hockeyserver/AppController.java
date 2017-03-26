@@ -34,4 +34,14 @@ public class AppController {
         }
         return gson.fromJson(stringBuilder.toString(), ContactWrapper.class);
     }
+
+    @RequestMapping(value="jsp")
+    public String startJsp(){
+        return "/test.jsp";
+    }
+
+    @RequestMapping(value="html")
+    public String startHtml(){
+        return "/test.html";
+    }
 }
