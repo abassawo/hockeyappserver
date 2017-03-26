@@ -1,0 +1,74 @@
+{
+  "roster": [
+    {
+      "name": "David  \u0020 Booth",
+      "image_url": "http://3.cdn.nhle.com/canucks/v2/photos/mugs/8471266.jpg",
+      "position": "Left Wing"
+    },
+    {
+      "name": "Alex  \u0020 Burrows",
+      "image_url": "http://1.cdn.nhle.com/canucks/v2/photos/mugs/8470358.jpg",
+      "position": "Right Wing"
+    },
+    {
+      "name": "Jannik  \u0020 Hansen",
+      "image_url": "http://2.cdn.nhle.com/canucks/v2/photos/mugs/8471498.jpg",
+      "position": "Right Wing"
+    },
+    {
+      "name": "Chris  \u0020 Higgins",
+      "image_url": "http://1.cdn.nhle.com/canucks/v2/photos/mugs/8470274.jpg",
+      "position": "Left Wing"
+    },
+    {
+      "name": "Ryan  \u0020 Kesler",
+      "image_url": "http://2.cdn.nhle.com/canucks/v2/photos/mugs/8470616.jpg",
+      "position": "Center"
+    },
+    {
+      "name": "Daniel  \u0020 Sedin",
+      "image_url": "http://2.cdn.nhle.com/canucks/v2/photos/mugs/8467875.jpg",
+      "position": "Left Wing"
+    },
+    {
+      "name": "Henrik  \u0020 Sedin",
+      "image_url": "http://3.cdn.nhle.com/canucks/v2/photos/mugs/8467876.jpg",
+      "position": "Center"
+    },
+    {
+      "name": "Kevin  \u0020 Bieksa",
+      "image_url": "http://3.cdn.nhle.com/canucks/v2/photos/mugs/8469598.jpg",
+      "position": "Defenseman"
+    },
+    {
+      "name": "Alex  \u0020 Edler",
+      "image_url": "http://1.cdn.nhle.com/canucks/v2/photos/mugs/8471303.jpg",
+      "position": "Defenseman"
+    },
+    {
+      "name": "Jason  \u0020 Garrison",
+      "image_url": "http://3.cdn.nhle.com/photos/mugs/8474520.jpg",
+      "position": "Defenseman"
+    },
+    {
+      "name": "Dan  \u0020 Hamhuis",
+      "image_url": "http://2.cdn.nhle.com/canucks/v2/photos/mugs/8469465.jpg",
+      "position": "Defenseman"
+    },
+    {
+      "name": "Chris  \u0020 Tanev",
+      "image_url": "http://3.cdn.nhle.com/canucks/v2/photos/mugs/8475690.jpg",
+      "position": "Defenseman"
+    },
+    {
+      "name": "Eddie  \u0020  Lack",
+      "image_url": "http://3.cdn.nhle.com/canucks/v2/photos/mugs/8475663.jpg",
+      "position": "Goalie"
+    },
+    {
+      "name": "Jacob  \u0020 Markstrom",
+      "image_url": "http://1.cdn.nhle.com/photos/mugs/8474593.jpg",
+      "position": "Goalie"
+    }
+  ]
+}
